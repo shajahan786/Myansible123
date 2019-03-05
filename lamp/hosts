@@ -1,0 +1,12 @@
+localhost
+
+[webservers]
+ip-172-31-18-117.ap-south-1.compute.internal
+ip-172-31-29-42.ap-south-1.compute.internal
+
+[dbservers]
+ip-172-31-24-236.ap-south-1.compute.internal
+
+[ubuntu]
+ip-172-31-18-117.ap-south-1.compute.internal
+ip-172-31-29-42.ap-south-1.compute.internal
